@@ -10877,3 +10877,16 @@ header {
 }
 body {
   background: #E3F2FD;}
+  /* Adjust the WhatsApp button size */
+.whatsapp-button img {
+  width: 80%; /* Example: makes the image width 80% of its parent container */
+  max-width: 200px; /* Ensures the image does not become too large */
+  height: auto; /* Maintains aspect ratio */
+}
+
+/* Example of a media query for smaller screens, adjust values as needed */
+@media (max-width: 768px) {
+  .whatsapp-button img {
+      width: 60%; /* Increase or decrease based on preference */
+  }
+}
