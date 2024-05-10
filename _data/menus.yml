@@ -1,0 +1,33 @@
+
+# Top Menu
+topmenu:
+
+  # - title: Beats
+    # url: "https://www.beatstars.com/unit10/tracks/" */
+
+  # - title: Services
+  #  url: "services/"
+  
+  - title: Jobs
+    url: "apply/"
+
+  - title: Contact
+    url: "https://www.telegram.me/officialhabeshahood/"
+
+  - title: Upload Your Video
+    url: "upload/"
+   
+
+# Footer Menu
+footermenu:
+  - title: Home
+    url: ""
+
+  - title: Privacy Policy
+    url: "privacy-policy/"
+
+  - title: Contact
+    url: "https://www.telegram.me/officialhabeshahood"
+
+  - title: Kebad Studio
+    url: "kebad-studio/"

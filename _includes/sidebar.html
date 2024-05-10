@@ -1,0 +1,30 @@
+<div class="sidebar sticky-top">        
+    <div class="sidebar-section">
+        <h5><span>Newsletter</span></h5>
+        {% include newsletter.html %}
+    </div>
+    <div class="sidebar-section">
+        <h5><span>Work With Us</span></h5>
+        <div style="display: flex; justify-content: center; align-items: center; overflow: hidden; border-radius: 4px;">
+            <img src="{{site.baseurl}}/assets/images/ad.png">
+           </div>
+        
+        <div style="text-align: center; margin-top: 10px; margin-bottom: 10px;">
+            <a href="{{ site.baseurl }}/apply" class="btn btn-contract"
+               style="background-color: white; /* Initial background color */
+                      color: black; /* Initial text color */
+                      padding: 10px 20px; 
+                      font-size: 20px;
+                      font-weight: 500; 
+                      border-radius: 25px; /* Rounded corners */
+                      cursor: pointer; 
+                      display: inline-block;
+                      text-decoration: none; /* Ensuring text isn't underlined */
+                      border: 1px solid black; /* Adding black border */
+                      width: fit-content; /* Adjust width to content */
+                      margin: auto; /* Center button horizontally */">
+               Apply Now
+             </a>
+        </div>
+    </div>
+</div>

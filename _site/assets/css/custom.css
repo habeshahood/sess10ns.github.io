@@ -1,0 +1,37 @@
+/* 
+Don't want to use sass and simply modify the stylesheet in the old css fashion? 
+Just customize your theme here.
+================================================== */
+
+.navigation-wrap {
+        background:  #091117;
+    }
+    
+    .nav-link {
+        color: #fff;
+    }
+    .social-icon {
+        color: #fff;
+    }
+    .navbar-toggler {
+        color: #fff;
+    }
+.mr-2 {
+    margin: -10px !important;
+}
+.ml-3 {
+    color: #fff !important;
+}
+
+.navbar-expand-lg>.container, .navbar-expand-lg>.container-fluid {
+    color: #fff !important;
+
+}
+.article-post a {
+    color:  #fff !important;
+    box-shadow: inset 0 -2px 0 #ffe51f, 0 2px 0 #ffe51f;
+}
+.credits-image {
+    max-width: 200px;
+    max-height: 200px;
+  }
