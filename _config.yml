@@ -1,13 +1,13 @@
 title: ሐበሻ HOOD
-email: info@habeshahood.com
+email: info@sess10ns.com
 description: >- 
   🎵 Showcasing the latest in Habesha music, talent creativity & culture 🇪🇹🎤🔥
 timezone: UTC
 baseurl: "" # the subpath of your site, e.g., /blog
-url: "https://www.habeshahood.com" # the base hostname & protocol for your site
-logo: 'assets/images/logo.png'  # should be in your _config.yml or equivalent
+url: "https://www.sess10ns.com" # the base hostname & protocol for your site
+logo: 'assets/images/logo.jpg'  # should be in your _config.yml or equivalent
 favicon: 'assets/images/favicon.ico'
-author: ሐበሻ
+author: Selassi
 paginate: 30
 disqus: 'website'
 locale: en_us
@@ -27,21 +27,20 @@ ganalytics: UA-113961478-1
 # Authors
 authors:
   sal:
-    name: ሐበሻ HOOD Team
-    display_name: Tewdros
-    avatar: 'assets/images/team.png'
-    email: team@habeshahood.com
-    web: https://www.habeshahood.com
+    name: Selassi
+    display_name: Selassi
+    avatar: 'assets/images/sellasi.png'
+    email: selassi@sess10ns.com
+    web: https://www.sess10ns.com
    
 # Social
 social:
-  telegram: https://www.telegram.me/officialhabeshahood
-  instagram: https://www.instagram.com/officialhabeshahood/
-  facebook: https://www.facebook.com/officialhabeshahood
-  tiktok: https://www.tiktok.com/@officialhabeshahood
-  medium: https://www.medium.com/@habeshahood
-  youtube: https://www.youtube.com/@habeshahood
-  spotify: https://open.spotify.com/artist/2E41Kn2v9djgwBsMtTYMe2
+  #instagram: https://www.instagram.com/sess10nsdotcom
+  #facebook: https://www.facebook.com/officialhabeshahood
+  tiktok: https://www.tiktok.com/@sess10nsconnect
+  #medium: https://www.medium.com/@habeshahood
+  #youtube: https://www.youtube.com/@habeshahood
+  #spotify: https://open.spotify.com/artist/2E41Kn2v9djgwBsMtTYMe2
 # Plugins
 plugins: 
 - jekyll-paginate
